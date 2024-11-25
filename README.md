@@ -6,5 +6,4 @@ Metacogni.cat pertany als alumnes o docents crear metacognicións directament a 
 # Worksphere
 
 Worksphere ofereix altres solucions per a docents i alumnes com:
-Worksphere for education
-Examinat.cat (Properament)
+Worksphere For Education o Examinat.cat (Properament)
